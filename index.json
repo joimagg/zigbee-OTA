@@ -7786,5 +7786,15 @@
     "manufacturerCode": 4644,
     "sha512": "96143d82e216dd8fcd8a1e893c7bac2fcbd98fed1d182475c391981e9be3da9f19575aefcce3d6b50316ca50b11d29332cbe4f0bfdac5151054e367ff09632fa",
     "otaHeaderString": "4512733"
+  },
+  {
+    "fileName": "4512726-Firmware-35_.ota",
+    "fileVersion": 22,
+    "fileSize": 144312,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Namron/4512726-Firmware-35_.ota",
+    "imageType": 1234,
+    "manufacturerCode": 4644,
+    "sha512": "e338a39c7e4d9c902d0c36e9d83c14e75e562acfa26c87a2e7c730bfe310700a3f2504f2c2ee828ebac2f69db0fc32ec3ebd80de97ef9357244846c7ad7d7baa",
+    "otaHeaderString": "Encrypted GBL Z3SwitchSoc_sdk676"
   }
 ]
